@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "maf_5/"))
+      (outputdirectory "maf0_5/"))
   )
 
   (net 0 "")
